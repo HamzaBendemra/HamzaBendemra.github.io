@@ -217,9 +217,6 @@ Employees can be assigning a "Risk Score" based on the predicted label such that
 • Medium-risk for employees with label between 0.6 and 0.8  
 • High-risk for employees with label > 0.8
 
-![Decision making](hhttps://miro.medium.com/v2/resize:fit:4800/format:webp/1*G3Pxy90SG5jZHuc8hZcybQ.jpeg)
-*Good work on reading the analysis — but what now? How does this help decision-makers? (Photo by rawpixel on Unsplash)*
-
 ### 6.2 Indicators and Strategic Retention Plan
 
 The stronger indicators of people leaving include:
