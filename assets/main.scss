@@ -23,6 +23,16 @@
   vertical-align: middle;
 }
 
+/* Style emoji-based social icons to match SVG grey color */
+.site-nav .page-link.social-link:not(:has(.svg-icon)) {
+  filter: grayscale(1) brightness(0.5);
+  font-size: 16px;
+}
+
+.site-nav .page-link.social-link:not(:has(.svg-icon)):hover {
+  filter: grayscale(1) brightness(0.2);
+}
+
 /* Ensure proper spacing between nav items */
 .site-nav .page-link:not(.social-link) {
   margin-right: 20px;
@@ -46,14 +56,16 @@
   color: #333333;
   text-decoration: none;
   font-weight: 600;
-  font-size: 1.1em;
+  font-size: 1em;
   line-height: 1.4;
   transition: all 0.2s ease;
+  border-bottom: none !important;
 }
 
 .home .post-list .post-link:hover {
   color: #2c5aa0;
   text-decoration: none;
+  border-bottom: none !important;
 }
 
 .home .post-list .post-link:visited {
