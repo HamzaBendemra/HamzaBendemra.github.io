@@ -4,7 +4,7 @@ plugins:
   - jekyll-sitemap
 
 title: "Hamza Bendemra"
-description: "AI & ML Lead • Engineering • Leadership"
+description: "AI & ML Lead"
 url: "https://hamzabendemra.github.io"
 baseurl: ""
 
