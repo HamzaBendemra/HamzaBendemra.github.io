@@ -24,19 +24,17 @@
             {%- endif -%}
           {%- endfor -%}
           
-          <!-- Social links in header -->
-          <div class="social-links">
-            {%- if site.github_username -%}
-              <a href="https://github.com/{{ site.github_username }}" title="GitHub">
-                <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>
-              </a>
-            {%- endif -%}
-            {%- if site.linkedin_username -%}
-              <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
-                <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg>
-              </a>
-            {%- endif -%}
-          </div>
+          <!-- Social links inline with navigation -->
+          {%- if site.github_username -%}
+            <a class="page-link social-link" href="https://github.com/{{ site.github_username }}" title="GitHub">
+              <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>
+            </a>
+          {%- endif -%}
+          {%- if site.linkedin_username -%}
+            <a class="page-link social-link" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
+              <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg>
+            </a>
+          {%- endif -%}
         </div>
       </nav>
     {%- endif -%}

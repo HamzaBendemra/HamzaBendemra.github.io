@@ -23,23 +23,6 @@ Building NLP-powered tools that transform complex data into actionable insights 
 **🛠️ Full-Stack ML Engineering**  
 Creating end-to-end solutions using Python, FastAPI, Docker, and Azure, ensuring robust deployment and continuous integration.
 
-### Technical Expertise
-
-**Machine Learning & AI**  
-- PyTorch, scikit-learn, open-source LLMs
-- Statistical modeling and applied research
-- Explainable AI and human-centered design
-
-**Development & Engineering**  
-- Python (FastAPI, Streamlit, Plotly)
-- Data engineering (SQL, Pandas, Synapse Analytics)
-- CI/CD and cloud deployment (Docker, Azure DevOps)
-
-**Leadership & Strategy**  
-- Cross-functional team leadership
-- AI strategy and roadmap development
-- Stakeholder communication and data storytelling
-
 ## Connect
 
 I'm always interested in discussing AI, ML engineering, leadership in tech, or potential collaborations.

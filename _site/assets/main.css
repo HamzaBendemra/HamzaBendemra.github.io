@@ -195,14 +195,16 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
 
-/* Custom styles for header social links */
-.site-nav .social-links { display: inline-block; margin-left: 15px; }
+/* Custom styles for inline header social links */
+.site-nav .page-link.social-link { margin-left: 10px; padding: 0; color: #424242; border: none; }
 
-.site-nav .social-links a { margin-left: 8px; color: #424242; }
+.site-nav .page-link.social-link:hover { color: #111; text-decoration: none; }
 
-.site-nav .social-links a:hover { color: #111; }
+.site-nav .page-link.social-link .svg-icon { width: 16px; height: 16px; display: inline-block; vertical-align: middle; }
 
-.site-nav .social-links .svg-icon { width: 16px; height: 16px; display: inline-block; vertical-align: middle; }
+/* Ensure proper spacing between nav items */
+.site-nav .page-link:not(.social-link) { margin-right: 20px; }
 
-/* Responsive adjustments */
-@media screen and (max-width: 600px) { .site-nav .social-links { display: block; margin-left: 0; margin-top: 10px; } }
+/* Mobile responsive adjustments */
+@media screen and (max-width: 600px) { .site-nav .page-link.social-link { display: block; padding: 5px 10px; margin-left: 0; }
+  .site-nav .page-link:not(.social-link) { margin-right: 0; } }
