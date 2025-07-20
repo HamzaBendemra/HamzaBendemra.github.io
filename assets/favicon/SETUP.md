@@ -1,5 +1,4 @@
 # Temporary Favicon Setup
-
 For now, I've set up the favicon structure. To complete it, you'll need to:
 
 ## Quick Setup (Recommended):

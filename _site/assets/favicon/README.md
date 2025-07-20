@@ -1,5 +1,4 @@
 # Favicon Files
-
 To add a favicon to your site, you'll need these files:
 
 ## Required Files:

@@ -54,6 +54,5 @@ I believe that the best AI solutions are those that augment human decision-makin
 
 I'm always interested in discussing AI, ML engineering, leadership in tech, or potential collaborations.
 
-📧 [hamza@hamzabendemra.com](mailto:hamza@hamzabendemra.com)  
 💼 [LinkedIn](https://linkedin.com/in/hamzabendemra)  
 📝 [Medium](https://medium.com/@hamzabendemra)
