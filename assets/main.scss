@@ -40,3 +40,77 @@
     margin-right: 0;
   }
 }
+
+/* Professional blog post link styling */
+.home .post-list .post-link {
+  color: #333333;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.1em;
+  line-height: 1.4;
+  transition: all 0.2s ease;
+}
+
+.home .post-list .post-link:hover {
+  color: #2c5aa0;
+  text-decoration: none;
+}
+
+.home .post-list .post-link:visited {
+  color: #333333;
+}
+
+.home .post-list .post-link:visited:hover {
+  color: #2c5aa0;
+}
+
+/* Style the post meta (date) */
+.home .post-list .post-meta {
+  font-size: 0.9em;
+  color: #666666;
+  margin-top: 0.25em;
+}
+
+/* Style the post excerpt */
+.home .post-list li p {
+  color: #555555;
+  margin-top: 0.5em;
+  line-height: 1.5;
+}
+
+/* Add some spacing between posts */
+.home .post-list li {
+  margin-bottom: 2em;
+  padding-bottom: 1.5em;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.home .post-list li:last-child {
+  border-bottom: none;
+}
+
+/* General link styling improvements */
+.post-content a, 
+.page-content a:not(.post-link) {
+  color: #2c5aa0;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(44, 90, 160, 0.3);
+  transition: all 0.2s ease;
+}
+
+.post-content a:hover, 
+.page-content a:not(.post-link):hover {
+  color: #1a3a6b;
+  border-bottom-color: #1a3a6b;
+}
+
+.post-content a:visited, 
+.page-content a:not(.post-link):visited {
+  color: #2c5aa0;
+}
+
+/* Keep social links in footer/navigation clean */
+.social-media-list a,
+.site-nav a {
+  border-bottom: none !important;
+}
