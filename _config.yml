@@ -4,13 +4,13 @@ plugins:
   - jekyll-sitemap
 
 title: "Hamza Bendemra"
-description: "Machine Learning • Data Science • Leadership"
+description: "Machine Learning"
 url: "https://hamzabendemra.github.io"
 baseurl: ""
 
 author:
   name: "Hamza Bendemra"
-  email: "hamza@example.com"
+  email: "hamza@hamzabendemra.com"
 
 # Minimal social links
 github_username: HamzaBendemra
@@ -18,11 +18,10 @@ linkedin_username: hamzabendemra
 
 # Clean, minimal settings
 show_excerpts: false
-paginate: 5
 markdown: kramdown
 highlighter: rouge
 
 # Minimal header
 header_pages:
-  - about/index.md
-  - projects.md
+  - about.md
+  - blog.md
