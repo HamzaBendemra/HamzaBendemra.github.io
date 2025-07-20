@@ -35,6 +35,21 @@
               <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg>
             </a>
           {%- endif -%}
+          {%- if site.medium_username -%}
+            <a class="page-link social-link" href="https://medium.com/@{{ site.medium_username }}" title="Medium" target="_blank" rel="noopener">
+              📝
+            </a>
+          {%- endif -%}
+          {%- if site.google_scholar_url -%}
+            <a class="page-link social-link" href="{{ site.google_scholar_url }}" title="Google Scholar" target="_blank" rel="noopener">
+              🎓
+            </a>
+          {%- endif -%}
+          {%- if site.conversation_url -%}
+            <a class="page-link social-link" href="{{ site.conversation_url }}" title="The Conversation" target="_blank" rel="noopener">
+              💬
+            </a>
+          {%- endif -%}
         </div>
       </nav>
     {%- endif -%}

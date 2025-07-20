@@ -64,4 +64,4 @@ But getting the skills to be a full-stack data scientist with strong communicati
 
 ---
 
-*If you found this article helpful, feel free to connect with me on [LinkedIn](https://linkedin.com/in/hamzab){:target="_blank" rel="noopener"} or check out my other articles on [Medium](https://medium.com/@Hamza.b86){:target="_blank" rel="noopener"}.*
+*If you found this article helpful, feel free to connect with me on [LinkedIn](https://linkedin.com/in/hamzabendemra){:target="_blank" rel="noopener"} or check out my other articles on [Medium](https://medium.com/@Hamza.b86){:target="_blank" rel="noopener"}.*

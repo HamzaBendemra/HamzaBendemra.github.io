@@ -8,9 +8,12 @@ description: "AI & ML Lead"
 url: "https://hamzabendemra.github.io"
 baseurl: ""
 
-# Minimal social links
+# Social links
 github_username: HamzaBendemra
 linkedin_username: hamzab
+medium_username: Hamza.b86
+google_scholar_url: https://scholar.google.com/citations?user=r8Se7NwAAAAJ&hl=en
+conversation_url: https://theconversation.com/profiles/hamza-bendemra-5289
 
 # Clean, minimal settings
 show_excerpts: false
