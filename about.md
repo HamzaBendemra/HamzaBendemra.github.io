@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+![Abu Dhabi skyline](https://unsplash.com/photos/KcJOk1D0Z3U/download?force=true&w=800)
+*Abu Dhabi skyline - where innovation meets tradition*
+
 I'm an AI & ML Lead at Abu Dhabi Investment Authority (ADIA), where I focus on building intelligent systems that solve complex business problems.
 
 ### Background
