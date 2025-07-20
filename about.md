@@ -27,5 +27,5 @@ Creating end-to-end solutions using Python, FastAPI, Docker, and Azure, ensuring
 
 I'm always interested in discussing AI, ML engineering, leadership in tech, or potential collaborations.
 
-💼 [LinkedIn](https://linkedin.com/in/hamzabendemra)  
-📝 [Medium](https://medium.com/@hamzabendemra)
+💼 [LinkedIn](https://linkedin.com/in/hamzabendemra){:target="_blank" rel="noopener"}  
+📝 [Medium](https://medium.com/@hamzabendemra){:target="_blank" rel="noopener"}
