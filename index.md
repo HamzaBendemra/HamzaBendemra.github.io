@@ -15,20 +15,4 @@ layout: home
 
 ---
 
-🎓 **Academic Background**  
-PhD in Engineering, with a strong foundation in applied research, data science, and statistical modeling.
-
-🛠️ **Core Competencies**  
-- Machine Learning & NLP (scikit-learn, PyTorch, open-source LLMs)  
-- Python Web Development (FastAPI, Streamlit, Plotly)  
-- Data Engineering & Automation (SQL, Pandas, Synapse Analytics)  
-- CI/CD & Cloud Deployment (Docker, Azure, DevOps)
-
-📈 **Strategic Focus Areas**  
-- Leadership development through data  
-- AI-driven decision support tools  
-- Enabling explainable and human-centered ML
-
----
-
 

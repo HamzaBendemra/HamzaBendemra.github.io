@@ -14,6 +14,12 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/assets/favicon/SETUP.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/favicon/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/assets/images/</loc>
 </url>
 </urlset>
