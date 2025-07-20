@@ -15,8 +15,6 @@ layout: home
 
 ---
 
-## 🔍 About Me
-
 🎓 **Academic Background**  
 PhD in Engineering, with a strong foundation in applied research, data science, and statistical modeling.
 
@@ -43,22 +41,8 @@ PhD in Engineering, with a strong foundation in applied research, data science, 
 
 ---
 
-## 📝 Recent Posts
-
-{% for post in site.posts limit:3 %}
-- [{{ post.title }}]({{ post.url }}) - *{{ post.date | date: "%b %d, %Y" }}*
-{% endfor %}
-
-[View all posts →](/blog)
-
----
-
 ## 🤝 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hamzabendemra)  
 - 📝 [Medium](https://medium.com/@hamzabendemra) *(writing in progress)*  
-- 📧 [Email](mailto:hamza@hamzabendemra.com)
 
----
-
-> *"I choose to share with purpose—whether to drive innovation, develop others, or grow as a leader. My work is a reflection of that principle."*
