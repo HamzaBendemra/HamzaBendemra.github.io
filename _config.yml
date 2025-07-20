@@ -1,0 +1,31 @@
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"   # lock to latest release  [oai_citation:1‡mmistakes.github.io](https://mmistakes.github.io/minimal-mistakes/?utm_source=chatgpt.com) [oai_citation:2‡mmistakes.github.io](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/?utm_source=chatgpt.com)
+plugins:
+  - jekyll-include-cache
+
+title: "Hamza on Machine Learning"
+description: "Notes, experiments and lessons from a Lead Data Scientist @ ADIA."
+url: "https://hamzabendemra.github.io"
+author:
+  name   : "Hamza Bendemra"
+  avatar : "/assets/images/avatar.jpg"       # optional head-shot
+  bio    : "Lead Data Scientist • Abu Dhabi Investment Authority"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/HamzaBendemra"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/hamzabendemra"
+    - label: "Medium"
+      icon: "fab fa-medium"
+      url: "https://medium.com/@HamzaBendemra"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=…"
+
+# Optional bells & whistles
+search: true
+minimal_mistakes_skin: "air"        # try "dark", "mint", "neon", etc.
+paginate: 5                         # posts per page
+paginate_path: /page:num/
+repository: "HamzaBendemra/hamzabendemra.github.io"
