@@ -6,8 +6,7 @@ permalink: /about/
 
 I'm an AI & ML Lead at Abu Dhabi Investment Authority (ADIA), where I focus on building intelligent systems that solve complex business problems.
 
-![Abu Dhabi skyline](https://unsplash.com/photos/hNg-zO_mHQk/download?force=true&w=800)
-*Abu Dhabi skyline - where innovation meets tradition*
+![Abu Dhabi skyline](https://unsplash.com/photos/hNg-zO_mHQk/download?force=true&w=600)
 
 ### Background
 
