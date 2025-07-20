@@ -54,7 +54,7 @@ In this case study, a HR dataset was sourced from [IBM HR Analytics Employee Att
 
 As stated on the [IBM website](https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/): "This is a fictional data set created by IBM data scientists. Its main purpose was to demonstrate the IBM Watson Analytics tool for employee attrition."
 
-![Data analysis](https://unsplash.com/photos/xDE_p0EXpc8/download?force=true&w=800)
+![Data analysis](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*yuiZeZzWBJPa1c7qLHRxhw.jpeg)
 *Let's crunch some employee data! (Photo by rawpixel on Unsplash)*
 
 ### 2.1 Data Description and Exploratory Visualisations
@@ -217,7 +217,7 @@ Employees can be assigning a "Risk Score" based on the predicted label such that
 • Medium-risk for employees with label between 0.6 and 0.8  
 • High-risk for employees with label > 0.8
 
-![Decision making](https://unsplash.com/photos/a2VqhP3d4Vg/download?force=true&w=800)
+![Decision making](hhttps://miro.medium.com/v2/resize:fit:4800/format:webp/1*G3Pxy90SG5jZHuc8hZcybQ.jpeg)
 *Good work on reading the analysis — but what now? How does this help decision-makers? (Photo by rawpixel on Unsplash)*
 
 ### 6.2 Indicators and Strategic Retention Plan
@@ -241,8 +241,7 @@ Several metrics can be used here to determine whether action should be taken wit
 
 A strategic retention plan can be drawn for each Risk Score group. In addition to the suggested steps for each feature listed above, face-to-face meetings between a HR representative and employees can be initiated for medium- and high-risk employees to discuss work conditions. Also, a meeting with those employee's Line Manager would allow to discuss the work environment within the team and whether steps can be taken to improve it.
 
-I hope you enjoyed reading this article as much as I had writing it. Once again, for complete code, please refer to this [GitHub repo](https://github.com/hamzaben86/Employee-Churn-Predictive-Model) and/or the [Kaggle Kernel](https://www.kaggle.com/hamzaben/employee-churn-model-w-strategic-retention-plan).
-
 ---
 
-*If you found this article helpful, feel free to connect with me on [LinkedIn](https://linkedin.com/in/hamzabendemra){:target="_blank" rel="noopener"} or check out my other articles on [Medium](https://medium.com/@hamzabendemra){:target="_blank" rel="noopener"}.*
+I hope you enjoyed reading this article as much as I had writing it. Once again, for complete code, please refer to this [GitHub repo](https://github.com/hamzaben86/Employee-Churn-Predictive-Model) and/or the [Kaggle Kernel](https://www.kaggle.com/hamzaben/employee-churn-model-w-strategic-retention-plan).
+
