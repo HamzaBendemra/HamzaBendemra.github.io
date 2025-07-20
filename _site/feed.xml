@@ -1,24 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-07-20T18:03:45+04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hamza Bendemra</title><subtitle>AI &amp; ML Lead</subtitle><entry><title type="html">Starting this blog</title><link href="http://localhost:4000/meta/2025/07/20/hello-world.html" rel="alternate" type="text/html" title="Starting this blog" /><published>2025-07-20T10:00:00+04:00</published><updated>2025-07-20T10:00:00+04:00</updated><id>http://localhost:4000/meta/2025/07/20/hello-world</id><content type="html" xml:base="http://localhost:4000/meta/2025/07/20/hello-world.html"><![CDATA[<p>Making my learning journey public.</p>
-
-<p>Expect experiment logs, quick takes on ML papers, and career notes.</p>
-
-<p>Stay tuned.”Why I’m starting this blog”
-date:   2025-07-20 10:00:00 +0400
-tags:   [meta]
-—
-After years of private notebooks, I’m making my learning journey public. Expect:</p>
-
-<ol>
-  <li><strong>Experiment logs</strong> (Vector DB tricks, retrieval-augmented generation in HR).</li>
-  <li><strong>Quick takes</strong> on new ML papers.</li>
-  <li><strong>Career notes</strong> on growing from IC → strategic leadership.</li>
-</ol>
-
-<p>Stay tuned!</p>]]></content><author><name></name></author><category term="meta" /><summary type="html"><![CDATA[Making my learning journey public.]]></summary></entry><entry><title type="html">Building an Employee Churn Model in Python to Develop a Strategic Retention Plan</title><link href="http://localhost:4000/data-science/machine-learning/2019/03/11/building-employee-churn-model-python-strategic-retention-plan.html" rel="alternate" type="text/html" title="Building an Employee Churn Model in Python to Develop a Strategic Retention Plan" /><published>2019-03-11T10:00:00+04:00</published><updated>2019-03-11T10:00:00+04:00</updated><id>http://localhost:4000/data-science/machine-learning/2019/03/11/building-employee-churn-model-python-strategic-retention-plan</id><content type="html" xml:base="http://localhost:4000/data-science/machine-learning/2019/03/11/building-employee-churn-model-python-strategic-retention-plan.html"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-07-20T18:09:26+04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hamza Bendemra</title><subtitle>AI &amp; ML Lead</subtitle><entry><title type="html">Building an Employee Churn Model in Python to Develop a Strategic Retention Plan</title><link href="http://localhost:4000/data-science/machine-learning/2019/03/11/building-employee-churn-model-python-strategic-retention-plan.html" rel="alternate" type="text/html" title="Building an Employee Churn Model in Python to Develop a Strategic Retention Plan" /><published>2019-03-11T10:00:00+04:00</published><updated>2019-03-11T10:00:00+04:00</updated><id>http://localhost:4000/data-science/machine-learning/2019/03/11/building-employee-churn-model-python-strategic-retention-plan</id><content type="html" xml:base="http://localhost:4000/data-science/machine-learning/2019/03/11/building-employee-churn-model-python-strategic-retention-plan.html"><![CDATA[<blockquote>
   <p><em>Originally published on <a href="https://medium.com/data-science/building-an-employee-churn-model-in-python-to-develop-a-strategic-retention-plan-57d5bd882c2d">Medium</a> on March 11, 2019</em></p>
 </blockquote>
 
-<p><img src="https://unsplash.com/photos/QBpZGqEMsKg" alt="Employee working" />
+<p><img src="https://unsplash.com/photos/QBpZGqEMsKg/download?force=true&amp;w=800" alt="Employee working" />
 <em>Everybody’s working hard but who is most likely to hand in their resignation letter? (Photo by Alex Kotliarskyi on Unsplash)</em></p>
 
 <h1 id="contents">Contents</h1>
@@ -42,8 +26,8 @@ After years of private notebooks, I’m making my learning journey public. Expec
 
 <p>Understanding why and when employees are most likely to leave can lead to actions to improve employee retention as well as possibly planning new hiring in advance. I will be using a step-by-step systematic approach using a method that could be used for a variety of ML problems. This project would fall under what is commonly known as HR Analytics or People Analytics.</p>
 
-<p><img src="https://unsplash.com/photos/kJAxZT1zRwM" alt="Focused team" />
-<em>Focused and minding their own business but where’s the collaborative spirit? (Photo by rawpixel on Unsplash)</em></p>
+<p><img src="https://unsplash.com/photos/n95VMLxqM2I/download?force=true&amp;w=800" alt="Business meeting" />
+<em>Ready to make data-driven decisions! (Photo by rawpixel on Unsplash)</em></p>
 
 <p>In this study, we will attempt to solve the following problem statement:</p>
 
@@ -61,7 +45,7 @@ After years of private notebooks, I’m making my learning journey public. Expec
 
 <p>As stated on the <a href="https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/">IBM website</a>: “This is a fictional data set created by IBM data scientists. Its main purpose was to demonstrate the IBM Watson Analytics tool for employee attrition.”</p>
 
-<p><img src="https://unsplash.com/photos/xDE_p0EXpc8" alt="Data analysis" />
+<p><img src="https://unsplash.com/photos/xDE_p0EXpc8/download?force=true&amp;w=800" alt="Data analysis" />
 <em>Let’s crunch some employee data! (Photo by rawpixel on Unsplash)</em></p>
 
 <h3 id="21-data-description-and-exploratory-visualisations">2.1 Data Description and Exploratory Visualisations</h3>

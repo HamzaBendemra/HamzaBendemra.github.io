@@ -13,7 +13,7 @@ republished: true
 
 > *Originally published on [Medium]({{ page.original_url }}) on {{ page.date | date: "%B %d, %Y" }}*
 
-![Employee working](https://unsplash.com/photos/QBpZGqEMsKg)
+![Employee working](https://unsplash.com/photos/QBpZGqEMsKg/download?force=true&w=800)
 *Everybody's working hard but who is most likely to hand in their resignation letter? (Photo by Alex Kotliarskyi on Unsplash)*
 
 # Contents
@@ -35,8 +35,8 @@ In other words, the cost of replacing employees for most employers remains signi
 
 Understanding why and when employees are most likely to leave can lead to actions to improve employee retention as well as possibly planning new hiring in advance. I will be using a step-by-step systematic approach using a method that could be used for a variety of ML problems. This project would fall under what is commonly known as HR Analytics or People Analytics.
 
-![Focused team](https://unsplash.com/photos/kJAxZT1zRwM)
-*Focused and minding their own business but where's the collaborative spirit? (Photo by rawpixel on Unsplash)*
+![Business meeting](https://unsplash.com/photos/n95VMLxqM2I/download?force=true&w=800)
+*Ready to make data-driven decisions! (Photo by rawpixel on Unsplash)*
 
 In this study, we will attempt to solve the following problem statement:
 
@@ -54,7 +54,7 @@ In this case study, a HR dataset was sourced from [IBM HR Analytics Employee Att
 
 As stated on the [IBM website](https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/): "This is a fictional data set created by IBM data scientists. Its main purpose was to demonstrate the IBM Watson Analytics tool for employee attrition."
 
-![Data analysis](https://unsplash.com/photos/xDE_p0EXpc8)
+![Data analysis](https://unsplash.com/photos/xDE_p0EXpc8/download?force=true&w=800)
 *Let's crunch some employee data! (Photo by rawpixel on Unsplash)*
 
 ### 2.1 Data Description and Exploratory Visualisations
