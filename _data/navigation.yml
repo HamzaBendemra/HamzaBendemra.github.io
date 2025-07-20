@@ -1,9 +1,0 @@
-main:
-  - title: "Blog"
-    url: /
-  - title: "About"
-    url: /about/
-  - title: "Projects"
-    url: /projects/
-  - title: "CV"
-    url: /assets/Hamza_Bendemra_CV.pdf

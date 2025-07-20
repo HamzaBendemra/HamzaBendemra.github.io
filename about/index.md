@@ -1,5 +1,14 @@
 ---
-title: "About"
+layout: page
+title: About
+permalink: /about/
+---
+
+Lead Data Scientist at ADIA. 
+
+Working on AI/ML strategy, LLM-powered analytics, and MLOps at scale.
+
+This is my public lab notebook.e: "About"
 permalink: /about/
 layout: single
 author_profile: true

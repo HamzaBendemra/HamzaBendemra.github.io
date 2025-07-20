@@ -1,5 +1,15 @@
 ---
-title:  "Why I’m starting this blog"
+layout: post
+title: "Starting this blog"
+date: 2025-07-20 10:00:00 +0400
+categories: meta
+---
+
+Making my learning journey public.
+
+Expect experiment logs, quick takes on ML papers, and career notes.
+
+Stay tuned."Why I’m starting this blog"
 date:   2025-07-20 10:00:00 +0400
 tags:   [meta]
 ---

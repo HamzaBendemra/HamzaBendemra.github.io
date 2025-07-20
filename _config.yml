@@ -1,31 +1,28 @@
-remote_theme: "mmistakes/minimal-mistakes@4.27.1"   # lock to latest release  [oai_citation:1‡mmistakes.github.io](https://mmistakes.github.io/minimal-mistakes/?utm_source=chatgpt.com) [oai_citation:2‡mmistakes.github.io](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/?utm_source=chatgpt.com)
+theme: minima
 plugins:
-  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
 
-title: "Hamza on Machine Learning"
-description: "Notes, experiments and lessons from a Lead Data Scientist @ ADIA."
+title: "Hamza Bendemra"
+description: "Machine Learning • Data Science • Leadership"
 url: "https://hamzabendemra.github.io"
-author:
-  name   : "Hamza Bendemra"
-  avatar : "/assets/images/avatar.jpg"       # optional head-shot
-  bio    : "Lead Data Scientist • Abu Dhabi Investment Authority"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/HamzaBendemra"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/hamzabendemra"
-    - label: "Medium"
-      icon: "fab fa-medium"
-      url: "https://medium.com/@HamzaBendemra"
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=…"
+baseurl: ""
 
-# Optional bells & whistles
-search: true
-minimal_mistakes_skin: "air"        # try "dark", "mint", "neon", etc.
-paginate: 5                         # posts per page
-paginate_path: /page:num/
-repository: "HamzaBendemra/hamzabendemra.github.io"
+author:
+  name: "Hamza Bendemra"
+  email: "hamza@example.com"
+
+# Minimal social links
+github_username: HamzaBendemra
+linkedin_username: hamzabendemra
+
+# Clean, minimal settings
+show_excerpts: false
+paginate: 5
+markdown: kramdown
+highlighter: rouge
+
+# Minimal header
+header_pages:
+  - about/index.md
+  - projects.md

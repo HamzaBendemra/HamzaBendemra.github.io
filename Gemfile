@@ -1,5 +1,7 @@
 # Gemfile  ─────────────────────────────────────────────────
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins   # keeps Ruby versions identical to GitHub
-gem "jekyll-include-cache", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
+gem "minima", "~> 2.5"
+gem "jekyll-feed", "~> 0.12"
+gem "jekyll-sitemap"
