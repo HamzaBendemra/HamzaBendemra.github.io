@@ -194,3 +194,15 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .vg { color: #008080; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
+
+/* Custom styles for header social links */
+.site-nav .social-links { display: inline-block; margin-left: 15px; }
+
+.site-nav .social-links a { margin-left: 8px; color: #424242; }
+
+.site-nav .social-links a:hover { color: #111; }
+
+.site-nav .social-links .svg-icon { width: 16px; height: 16px; display: inline-block; vertical-align: middle; }
+
+/* Responsive adjustments */
+@media screen and (max-width: 600px) { .site-nav .social-links { display: block; margin-left: 0; margin-top: 10px; } }
