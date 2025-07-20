@@ -217,7 +217,7 @@ Employees can be assigning a "Risk Score" based on the predicted label such that
 • Medium-risk for employees with label between 0.6 and 0.8  
 • High-risk for employees with label > 0.8
 
-![Decision making](https://unsplash.com/photos/a2VqhP3d4Vg)
+![Decision making](https://unsplash.com/photos/a2VqhP3d4Vg/download?force=true&w=800)
 *Good work on reading the analysis — but what now? How does this help decision-makers? (Photo by rawpixel on Unsplash)*
 
 ### 6.2 Indicators and Strategic Retention Plan
