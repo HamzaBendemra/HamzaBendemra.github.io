@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm an AI & ML Lead at Abu Dhabi Investment Authority (ADIA), where I focus on building intelligent systems that solve complex business problems.
+I'm an AI & ML Lead and focus on building intelligent systems that solve complex business problems.
 
 ### Background
 
