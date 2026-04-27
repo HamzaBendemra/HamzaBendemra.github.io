@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I'm a **Manager, AI Engineering & Platform** at the **Abu Dhabi Investment Authority (ADIA)**, focused on building intelligent systems that solve complex business problems.
+I lead and manage **GenAI and Agentic AI** projects, focused on building intelligent systems that solve complex business problems.
 
 ### Background
 
 🎓 **PhD in Engineering** from The Australian National University, with a career spanning academic research, data science, and applied AI engineering.
 
-Based in Abu Dhabi 🇦🇪, I've spent the past decade at the intersection of research and industry — from research engineering at ANU and Khalifa University, through data science roles at Al-Futtaim, to leading AI engineering and platform at ADIA for the past four years.
+Based in Abu Dhabi 🇦🇪, I've spent the past decade at the intersection of research and industry — from research engineering at ANU and Khalifa University, through data science roles at Al-Futtaim, to leading AI engineering and platform initiatives in the financial sector.
 
 ### What I Do
 
