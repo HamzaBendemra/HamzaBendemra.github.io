@@ -1,6 +1,6 @@
-# hamza bendemra — personal site
+## Personal website
 
-Source for [bendemra.ai](https://bendemra.ai), a personal site and blog focused on Applied AI Engineering, GenAI, and Agentic AI.
+Source for [bendemra.ai](https://bendemra.ai), a personal website and blog focused on Applied AI Engineering, GenAI, and Agentic AI.
 
 Built with [Jekyll](https://jekyllrb.com) and the [Minima](https://github.com/jekyll/minima) theme, hosted on GitHub Pages.
 
