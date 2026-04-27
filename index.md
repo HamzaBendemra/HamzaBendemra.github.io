@@ -8,8 +8,8 @@ layout: home
   </div>
   <div style="flex: 1;">
     <h2>👋 Hello, I'm Hamza Bendemra</h2>
-    <p>Welcome to my site. I'm an <strong>AI & ML Lead</strong> with a passion for solving complex business problems through <strong>AI, data, and intelligent systems</strong>.</p>
-    <p>Currently based in Abu Dhabi 🇦🇪, I build production-grade tools that combine <strong>Machine Learning</strong>, <strong>Natural Language Processing</strong>, and <strong>web frameworks</strong> to serve applications to my stakeholders.</p>
+    <p>Welcome to my site. I'm a <strong>Manager, AI Engineering & Platform</strong> at <strong>Abu Dhabi Investment Authority (ADIA)</strong>, with a passion for solving complex business problems through <strong>AI, data, and intelligent systems</strong>.</p>
+    <p>Based in Abu Dhabi 🇦🇪, I lead the design and delivery of production-grade AI platforms, combining <strong>Machine Learning</strong>, <strong>Natural Language Processing</strong>, and <strong>engineering</strong> to create real-world impact.</p>
   </div>
 </div>
 
