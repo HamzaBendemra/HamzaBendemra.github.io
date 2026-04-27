@@ -13,11 +13,6 @@ permalink: /blog/
         {% if post.description %}
           <p class="post-excerpt">{{ post.description }}</p>
         {% endif %}
-        <div class="post-tags">
-          {% for tag in post.tags limit:3 %}
-            <span class="tag">{{ tag }}</span>
-          {% endfor %}
-        </div>
       </li>
     {% endfor %}
   </ul>
